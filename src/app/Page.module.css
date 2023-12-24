@@ -1,0 +1,7 @@
+.circle {
+    filter: drop-shadow(5px 5px 100px #05d3f74d);
+}
+
+.btn-to-technical-test {
+    @apply px-10 py-3 text-white bg-[#05d3f7] rounded-2xl text-3xl font-semibold;
+}
