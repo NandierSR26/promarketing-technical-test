@@ -1,0 +1,1 @@
+export { getCardsData } from './cards.service'
