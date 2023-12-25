@@ -29,7 +29,7 @@ export const StepperComponent = () => {
         ))}
       </Stepper>
 
-      <div className="flex justify-center items-center gap-52 mt-10">
+      <div className="flex flex-col md:flex-row justify-center items-center gap-5 md:gap-52 mt-10">
         <button className={style['btn-previous']} onClick={handlePrevious}>
           Anterior
         </button>
