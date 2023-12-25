@@ -18,7 +18,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="es">
       <body className={inter.className}>
           <div className="flex flex-col bg-[#5757574d] backdrop-blur-2xl min-h-screen">
             <Header />
