@@ -5,7 +5,7 @@ import style from './Page.module.css'
 export default function Home() {
   return (
     <>
-      <section className="max-w-7xl mx-auto flex flex-col md:flex-row gap-10 justify-center items-center flex-1 pb-20">
+      <section className="max-w-7xl mx-auto flex flex-col md:flex-row gap-10 justify-center items-center flex-1 pb-20 px-5 md:px-0">
         <div className="w-2/3 text-center md:text-left">
           <h1 className="text-4xl md:text-5xl lg:text-7xl text-sky-100 font-extrabold mb-10">
             Pueba Técnica
