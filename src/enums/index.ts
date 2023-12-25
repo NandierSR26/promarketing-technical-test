@@ -4,3 +4,8 @@ export enum supplier  {
   PRAGMATIC = 'pragmatic',
   SPINOMENAL = 'spinomenal'
 }
+
+export enum ColorButtonsEnum {
+  PRIMARY = "primary",
+  SECONDARY = "secondary"
+}

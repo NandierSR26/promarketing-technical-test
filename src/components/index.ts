@@ -6,3 +6,6 @@ export { CasinoCard } from './CasinoCard/CasinoCard';
 export { Skeleton } from './Skeleton/Skeleton';
 export { TitleSection } from './TitleSection/TitleSection';
 export { StepperComponent } from './Stepper/Stepper';
+export { SelectButtonForm } from './SelectButtonForm/SelectButtonForm';
+export { Button } from './Button/Button';
+export { InputSelect } from './InputSelect/InputSelect';

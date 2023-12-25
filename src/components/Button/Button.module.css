@@ -1,0 +1,4 @@
+.button {
+  @apply flex gap-2 items-center px-4 py-3 w-fit rounded-lg self-center font-semibold text-xl;
+
+}
