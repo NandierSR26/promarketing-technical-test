@@ -22,10 +22,6 @@ export default function RootLayout({
           <div className="flex flex-col bg-[#5757574d] backdrop-blur-2xl min-h-screen px-10">
             <Header />
             {children}
-
-            <footer>
-              <p className="text-lm text-white w-full text-center py-5 px-2">By Nandier Ruiz</p>
-            </footer>
           </div>
 
       </body>

@@ -9,3 +9,4 @@ export { StepperComponent } from './Stepper/Stepper';
 export { SelectButtonForm } from './SelectButtonForm/SelectButtonForm';
 export { Button } from './Button/Button';
 export { InputSelect } from './InputSelect/InputSelect';
+export { Footer } from './Footer/Footer';
