@@ -22,7 +22,7 @@ export const CasinoCard = ({ ...props }: CasinoCardsProps) => {
 
   return (
     <div
-      className="relative w-[200px] h-[150px] lg:w-[250px] lg:h-[200px] rounded-[16px] bg-cover overflow-hidden"
+      className="relative w-[200px] h-[150px] lg:w-[350px] lg:h-[250px] rounded-[16px] bg-cover overflow-hidden"
       style={{
         backgroundImage: `url(${props.src})`,
         backgroundPosition: 'center'
