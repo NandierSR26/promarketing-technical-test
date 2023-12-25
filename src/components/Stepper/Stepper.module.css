@@ -1,0 +1,4 @@
+.btn-previous,
+.btn-next {
+  @apply px-7 py-3 rounded-3xl text-white font-poppins bg-slate-800;
+}
