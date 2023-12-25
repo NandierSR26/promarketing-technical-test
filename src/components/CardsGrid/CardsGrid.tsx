@@ -15,7 +15,7 @@ export const CardsGrid = () => {
 
 
   return (
-    <div className="flex flex-wrap flex-shrink-0 gap-5">
+    <div className="flex flex-wrap flex-shrink-0 gap-2 lg:gap-5">
       {
         cardsData.map(data => (
           <CasinoCard key={data.id} {...data} />

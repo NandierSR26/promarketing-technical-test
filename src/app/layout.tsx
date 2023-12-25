@@ -1,3 +1,5 @@
+'use client';
+
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import { Header } from '@/components'
@@ -26,6 +28,7 @@ export default function RootLayout({
               <p className="text-lm text-white w-full text-center py-5 px-2">By Nandier Ruiz</p>
             </footer>
           </div>
+
       </body>
     </html>
   )
