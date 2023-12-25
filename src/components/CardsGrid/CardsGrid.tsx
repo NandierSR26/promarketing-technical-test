@@ -21,7 +21,7 @@ export const CardsGrid = () => {
   }, [])
 
   return (
-    <div className="flex flex-wrap flex-shrink-0 gap-2 lg:gap-5">
+    <div className="flex flex-wrap justify-center flex-shrink-0 gap-2 lg:gap-5">
       {
         isLoading ? (
           <>
