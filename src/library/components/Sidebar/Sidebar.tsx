@@ -1,4 +1,4 @@
-import { MenuItems } from '@/constants';
+import { MenuItems } from '@/shared/constants';
 import React from 'react';
 import { SidebarMenuItem } from '..';
 

@@ -2,9 +2,9 @@
 
 import React, { useContext, useEffect, useRef, useState } from 'react'
 import Image from 'next/image';
-import { ICardData } from '@/interfaces'
-import { useScreenWidth } from '@/hooks';
-import { selectCardLogo } from '@/helpers';
+import { ICardData } from '@/shared/interfaces'
+import { useScreenWidth } from '@/shared/hooks';
+import { selectCardLogo } from '@/shared/helpers';
 import style from './CasinoCard.module.css';
 
 

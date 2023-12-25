@@ -1,7 +1,7 @@
 'use client';
 
-import { ICardData } from '@/interfaces';
-import { getCardsData } from '@/services';
+import { ICardData } from '@/shared/interfaces';
+import { getCardsData } from '@/shared/services';
 import React, { useEffect, useState } from 'react'
 import { CasinoCard, Skeleton } from '..';
 

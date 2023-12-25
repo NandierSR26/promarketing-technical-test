@@ -1,4 +1,4 @@
-import { ICardData } from "@/interfaces";
+import { ICardData } from "@/shared/interfaces";
 import { notFound } from "next/navigation";
 
 export const getCardsData = async(): Promise<ICardData[]> => {

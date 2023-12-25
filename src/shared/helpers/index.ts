@@ -1,4 +1,4 @@
-import { supplier } from "@/enums";
+import { supplier } from "@/shared/enums";
 
 export const selectCardLogo = (supplierText:string, width:number) => {
   let cardLogo = '';

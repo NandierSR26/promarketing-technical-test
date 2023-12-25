@@ -1,11 +1,7 @@
-import { StepperComponent, TitleSection } from "@/components";
-
+import { StepperPageTemplate } from "@/library/templates";
 
 export default function StepperPage() {
   return (
-    <>
-      <TitleSection text="Pasos" />
-      <StepperComponent />
-    </>
+    <StepperPageTemplate />
   );
 }

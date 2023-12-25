@@ -1,5 +1,4 @@
-import { Sidebar } from "@/components/Sidebar/Sidebar";
-import Link from "next/link";
+import { Sidebar } from "@/library/components";
 
 export const metadata = {
   title: 'SEO Title',
