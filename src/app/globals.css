@@ -17,34 +17,3 @@ body {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-.css-1hv8oq8-MuiStepLabel-label.Mui-active,
-.css-1hv8oq8-MuiStepLabel-label.MuiStepLabel-alternativeLabel {
-  color: white !important;
-  font-weight: bold !important;
-  font-size: 18px !important;
-}
-
-.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
-  width: 40px !important;
-  height: 40px !important;
-  color: #22C55E !important;
-}
-
-.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root {
-  width: 40px !important;
-  height: 40px !important;
-}
-
-.css-z7uhs0-MuiStepConnector-line {
-  border-top-width: 2px !important;
-}
-
-.css-zpcwqm-MuiStepConnector-root {
-  top: 20px !important;
-  left: calc(-50% + 30px) !important;
-  right: calc(50% + 30px) !important;
-}
-
-.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
-  color: #22C55E !important;
-}

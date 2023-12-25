@@ -4,6 +4,7 @@ import React, { useState } from 'react'
 import { Step, StepLabel, Stepper } from '@mui/material'
 import { steps } from '@/shared/constants';
 import style from './Stepper.module.css'
+import './Stepper.css'
 
 export const StepperComponent = () => {
 
