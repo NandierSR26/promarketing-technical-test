@@ -1,4 +1,4 @@
-import { SelectButtonOption } from "@/interfaces";
+import { SelectButtonOption } from "@/shared/interfaces";
 
 export const TypeButtons:SelectButtonOption[] = [
   {

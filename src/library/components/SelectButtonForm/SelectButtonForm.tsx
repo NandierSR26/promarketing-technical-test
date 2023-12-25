@@ -1,6 +1,6 @@
 'use client';
 
-import { ColorButtons, TypeButtons } from '@/constants';
+import { ColorButtons, TypeButtons } from '@/shared/constants';
 import { Divider } from '@mui/material';
 import React, { useEffect, useState } from 'react'
 import { Button, InputSelect } from '..';

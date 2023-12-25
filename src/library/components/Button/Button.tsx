@@ -2,7 +2,7 @@
 
 import React, { useEffect, useState } from 'react'
 import style from './Button.module.css'
-import { ColorButtonsEnum } from '@/enums';
+import { ColorButtonsEnum } from '@/shared/enums';
 
 interface ButtonProps {
   type: string;

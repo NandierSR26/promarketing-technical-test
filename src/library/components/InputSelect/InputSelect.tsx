@@ -1,4 +1,4 @@
-import { SelectButtonOption } from '@/interfaces';
+import { SelectButtonOption } from '@/shared/interfaces';
 import React from 'react'
 
 interface InputSelectProps extends Partial<HTMLSelectElement> {

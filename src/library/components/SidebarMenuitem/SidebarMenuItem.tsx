@@ -1,6 +1,6 @@
 'use client';
 
-import { IMenuItem } from '@/interfaces';
+import { IMenuItem } from '@/shared/interfaces';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import React from 'react';

@@ -1,10 +1,10 @@
 'use client';
 
 import React, { useContext, useEffect, useState } from 'react'
-import { ICardData } from '@/interfaces'
+import { ICardData } from '@/shared/interfaces'
 import { CasinoCardOverlay } from './CasinoCardOverlay'
-import { useScreenWidth } from '@/hooks';
-import { selectCardLogo } from '@/helpers';
+import { useScreenWidth } from '@/shared/hooks';
+import { selectCardLogo } from '@/shared/helpers';
 import Image from 'next/image';
 import { NotAvailableOverlay } from './NotAvailableOverlay';
 

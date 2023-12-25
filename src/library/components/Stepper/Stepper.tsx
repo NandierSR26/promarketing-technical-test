@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react'
 import { Step, StepLabel, Stepper } from '@mui/material'
-import { steps } from '@/constants';
+import { steps } from '@/shared/constants';
 import style from './Stepper.module.css'
 
 export const StepperComponent = () => {

@@ -1,10 +1,7 @@
-import { CardsGrid, TitleSection } from "@/components";
+import { CardsPageTemplate } from "@/library/templates";
 
 export default function CasinoCardsPage() {
   return (
-    <>
-      <TitleSection text="Tarjetas" />
-      <CardsGrid />
-    </>
+    <CardsPageTemplate />
   );
 }

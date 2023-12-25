@@ -2,10 +2,10 @@
 
 import React, { useEffect, useState } from 'react'
 import style from './CasinoCard.module.css'
-import { ICardData } from '@/interfaces';
+import { ICardData } from '@/shared/interfaces';
 import Image from 'next/image';
-import { selectCardLogo } from '@/helpers';
-import { useScreenWidth } from '@/hooks';
+import { selectCardLogo } from '@/shared/helpers';
+import { useScreenWidth } from '@/shared/hooks';
 
 interface NotAvailableOverlayProps extends ICardData {
   isVisible: boolean;
